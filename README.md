@@ -61,3 +61,5 @@ generates ~7k tokens/sec on single core
 - store hashed in database (sha256 minimum)
 
 BSD-3-Clause
+
+# PR Merge: 2025-11-01 09:01:49
